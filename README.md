@@ -87,7 +87,7 @@ RMSE = 1,1079.695
 
 R^2 = 0.584
 
-Based off of the different models, I would recommend using the tuned Random Forest model which performed better than both the Linear Regression and default Random Forest model on MAE, MSE, RMSE, and R^2 for the testing data.
+Based off of these different models, I would recommend using the tuned Random Forest model which performed better than both the Linear Regression and default Random Forest model on MAE, MSE, RMSE, and R^2 for the testing data.
 
 The Default model outperformed the Tuned model in the training data but fell short on the data that mattered, the test data.
 
@@ -101,7 +101,7 @@ The Tuned Random Forest model can explain for 59% of the test data.
 ## Visual #1
 ![Frequency Of Item Type](https://github.com/lrnrdr/Prediction-of-Product-Sales/assets/138408700/98c91427-e395-4a8b-922e-831d2b8edcea)
 
-- From this graph, we can see that the Item_Type "Fruits and Vegetables" has the highest frequency sold, followed by the "Snack Foods" which are the next highest, as they are both around 14% .  I would say that they are both crucial in increasing sales.
+- From this graph, we can see that the Item_Type "Fruits and Vegetables" has the highest frequency sold, followed by the "Snack Foods" and "Household Goods" which are the next highest, as they are both around 14% . 
 
   
 ## Visual #2
@@ -109,4 +109,10 @@ The Tuned Random Forest model can explain for 59% of the test data.
 ![Heatmap Of Data](https://github.com/lrnrdr/Prediction-of-Product-Sales/assets/138408700/2c7c1948-1817-4792-8052-984c7d9662cd)
 
 
-- Here on the this heatmap, you can see that the Item Outlet Sales and Item MRP have the strongest correlation.  This shows that the Item MRP is the strongest contributor to the Item Outlet Sales, so attention to the Item MRP is crucial. 
+- Here on the this heatmap, you can see that the Item Outlet Sales and Item MRP have the strongest correlation. 
+
+## **Recommendations**
+
+The top three selling product types are Fruits & Vegetables, Snack Foods, and Household Goods, we need to make sure that the  outlets focus on this products when stocking up. 
+
+The Item MRP is the strongest contrubuter to Item Outlet Sale, so attention to Item MRP is cruicial. 
