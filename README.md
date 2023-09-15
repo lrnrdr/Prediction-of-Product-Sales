@@ -110,7 +110,17 @@ The Tuned Random Forest model can explain for 59% of the test data.
 
 
 - Here on the this heatmap, you can see that the Item Outlet Sales and Item MRP have the strongest correlation. 
-___
+
+## Visual #3
+![image](https://github.com/lrnrdr/Prediction-of-Product-Sales/assets/138408700/2cb597ef-79c1-4bd2-8473-8f6c9ea8e50f)
+
+The image above shows the top 10 most important features. Top 5 features are Item MRP, Outlet Type - Grocery Store, Item Visibility, Item Weight, and Outlet Type - Supermarket 3. These five were the most helpful in growing/sorting the tree-based model.
+
+## Visual #4
+
+![image](https://github.com/lrnrdr/Prediction-of-Product-Sales/assets/138408700/811984d6-e444-4cb4-b121-f229b7606161)
+
+3 coefficients are Outlet Location Type Tier 2, Outlet Identifier - OUT049, and Outlet Location Type - Tier 3. Sales from these locations positively influence the target (Item Outlet Sales)
 
 ## **Recommendations**
 
