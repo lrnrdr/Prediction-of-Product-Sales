@@ -2,18 +2,18 @@
 
 ## Analyzing various stores to increase sales
 
-Loraine Rodriguez
+Author: Loraine Rodriguez
 
 ___
+## **Business Problem**
 
 It is often  a challenge for companies to know where to focus resources and efforts. THere are many possibilites and it can be overwhelming to narrow down.       to know where to aim is to build models that will predict items sold at various stores. The goal of this is to help Big Mart Sales understand the products and outlets that play crucial roles in increasing sales.
+
+## **Data**
 
 Big Mart Sales Prediction: 
 https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 ___
-## Data Dictionary
-
-![Screenshot 2023-09-08 074830](https://github.com/lrnrdr/lrnrdr/assets/138408700/bb4bfa76-b476-49d7-b1d7-5fc9493006e1)
 
 # To prepare this data, the data was cleaned, and the following processes were performed:
 
