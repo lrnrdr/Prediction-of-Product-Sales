@@ -110,6 +110,7 @@ The Tuned Random Forest model can explain for 59% of the test data.
 
 
 - Here on the this heatmap, you can see that the Item Outlet Sales and Item MRP have the strongest correlation. 
+___
 
 ## **Recommendations**
 
