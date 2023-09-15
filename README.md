@@ -118,7 +118,7 @@ The image above shows the top 10 most important features. Top 5 features are Ite
 
 ## Visual #4
 
-![image](https://github.com/lrnrdr/Prediction-of-Product-Sales/assets/138408700/811984d6-e444-4cb4-b121-f229b7606161)
+![image](https://github.com/lrnrdr/Prediction-of-Product-Sales/assets/138408700/4ceb0f0d-606a-4d62-ba1e-b151fa6c2e78)
 
 3 coefficients are Outlet Location Type Tier 2, Outlet Identifier - OUT049, and Outlet Location Type - Tier 3. Sales from these locations positively influence the target (Item Outlet Sales)
 
