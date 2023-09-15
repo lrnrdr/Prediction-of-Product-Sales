@@ -15,7 +15,86 @@ Big Mart Sales Prediction:
 https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 ___
 
-# To prepare this data, the data was cleaned, and the following processes were performed:
+## **Methods**
+With the data provided, we were able to create various different machine learning models. 
+
+## **Models Created**
+- Linear Regression
+- Default Random Forest
+- Tuned Random Forest
+___
+
+## **Linear Regression Metrics: Training Data**
+
+MAE = 847.652
+
+MSE = 1,298,672.978
+
+RMSE = 1,139.593
+
+R^2 = 0.561
+
+## **Linear Regression Metrics: Test Data**
+
+MAE = 810.395
+
+MSE = 1,210,343.986
+
+RMSE = 1,100.156
+
+R^2 = 0.568
+___
+
+## **Default Random Forest Model: Training Data**
+
+MAE = 296.621
+
+MSE = 182,983.213
+
+RMSE = 427.765
+
+R^2 = 0.938
+
+## **Default Random Forest Model: Testing Data**
+
+MAE = 779.032
+
+MSE = 1,252,109.443
+
+RMSE = 1,118.977
+
+R^2 = 0.553
+
+____
+
+## **Tuned Random Forest Model: Training Data**
+
+MAE = 610.715
+
+MSE = 754,716.507
+
+RMSE = 868.744
+
+R^2 = 0.745
+
+## **Tuned Random Forest Model: Testing Data**
+
+MAE = 760.789
+
+MSE = 1,165,741.719
+
+RMSE = 1,1079.695
+
+R^2 = 0.584
+
+Based off of the different models, I would recommend using the tuned Random Forest model which performed better than both the Linear Regression and default Random Forest model on MAE, MSE, RMSE, and R^2 for the testing data.
+
+The Default model outperformed the Tuned model in the training data but fell short on the data that mattered, the test data.
+
+Despite the Linear Regression model and Default Random Forest model having large differences in the training data, they both performed fairly similar on the test data.
+
+The R^2 metric is probably the most important metric. It shows that the model can explain a specific % of the data.
+The Tuned Random Forest model can explain for 59% of the test data.
 
 ## Explanatory Visuals
 
