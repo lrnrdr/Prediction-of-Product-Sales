@@ -19,7 +19,7 @@ ___
 With the data provided, we were able to create various different machine learning models. 
 ___
 
-## **Models Created & Metrics**
+## **Comparision of 3 different Models and Metrics**
 - Linear Regression
 - Default Random Forest
 - Tuned Random Forest
