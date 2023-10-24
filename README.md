@@ -7,7 +7,7 @@ Author: Loraine Rodriguez
 ___
 ## **Business Problem**
 
-It is often  a challenge for companies to know where to focus resources and efforts. THere are many possibilites and it can be overwhelming to narrow down.       to know where to aim is to build models that will predict items sold at various stores. The goal of this is to help Big Mart Sales understand the products and outlets that play crucial roles in increasing sales.
+It is often  a challenge for companies to know where to focus resources and efforts. THere are many possibilites and it can be overwhelming to narrow down.  To know where to aim is to build models that will predict items sold at various stores. The goal of this is to help Big Mart Sales understand the products and outlets that play crucial roles in increasing sales.
 
 ## **Data**
 
